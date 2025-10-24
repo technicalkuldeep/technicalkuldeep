@@ -1,5 +1,5 @@
 <!-- 🌌 Banner (Optional: add a custom one in your repo as banner.png) -->
-![Banner](./banner.png)
+![Banner](./github-header-banner.png)
 
 <h1 align="center">Hey 👋, I'm <span style="color:#00FFB7;">Kuldeep Sharma</span></h1>
 <h3 align="center">💜 Full-Stack & Solana Developer | Exploring Web3, AI/ML, and the Future of the Internet</h3>
