@@ -56,7 +56,7 @@ Here are some of my featured Solana-related blogs 👇
 - ⚙️ [**Solana’s First Layer Explained: Users, Wallets, and Accounts**](https://medium.com/coinmonks/weve-built-a-great-understanding-so-far-bed61f4dfef4)
 
 <p align="center">
-  <a href="https://medium.com/@kuldeepsharma"><img src="https://img.shields.io/badge/Read%20More%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="[https://medium.com/@web3kuldeep]"><img src="https://img.shields.io/badge/Read%20More%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,7 +79,7 @@ Here are some of my featured Solana-related blogs 👇
 <p align="center">
   <a href="https://linkedin.com/in/kuldeep2004"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
   <a href="https://github.com/technicalkuldeep"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
-  <a href="https://medium.com/@kuldeepsharma"><img src="https://skillicons.dev/icons?i=medium" height="45" /></a>
+  <a href="https://medium.com/@web3kuldeep"><img src="https://skillicons.dev/icons?i=medium" height="45" /></a>
   <a href="https://www.codechef.com/users/web3kuldeep"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="38"/></a>
   <a href="https://web3kuldeep.me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" height="38"/></a>
 </p>
