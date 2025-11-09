@@ -12,13 +12,14 @@
 
 ### 🧠 About Me  
 
-Hey there! I'm **Kuldeep Sharma**, a developer from India passionate about **building on Solana** and merging **Web + AI + Blockchain** to create something that truly matters.  
+Hey there! I'm **Kuldeep**, a developer from India passionate about **building on Solana** and merging **Web + AI + Blockchain** to create something that truly matters.  
 
 - ⚙️ Focused on **Solana, Rust, React, Node.js, and AI/ML**
 - 💜 I absolutely love the **Solana ecosystem** and its developer-first community
-- 🏆 **2× Web3 Hackathon Winner**  
-  - 🥇 *100xDevs Solana Mini Hackathon*  
-  - 🥇 *Kwala Hacker House*  
+- 🏆 **3× Web3 Hackathon Winner**  
+  - 🥉*100xDevs Solana Mini Hackathon*  
+  - 🥉*Kwala Hacker House 1.0* 
+  - 🥇*Kwala Hacker House 2.0* 
 - 🌐 Check out my portfolio: [**web3kuldeep.me**](https://web3kuldeep.me)  
 - 💬 “I don’t just build projects — I craft experiments that scale.”  
 
