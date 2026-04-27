@@ -62,25 +62,8 @@ Here are some of my featured Solana-related blogs 👇
 
 ---
 
-### 📊 GitHub Stats  
-
-<!-- 🔥 INSANE STATS SECTION -->
-
-<h2 align="center">⚡ GitHub Analytics ⚡</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&icon_color=00FFB7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=technicalkuldeep&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=00FFB7" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalkuldeep&theme=react-dark&bg_color=0D1117&color=00FFB7&line=00FFB7&point=FFFFFF&hide_border=true&area=true" />
-</p>
----
+<!-- 🔥 INSANE STATS SECTION (STABLE VERSION) --> 
+<h2 align="center">⚡ GitHub Analytics ⚡</h2> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&icon_color=00FFB7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=86400" /> <img width="48%" src="https://streak-stats.demolab.com?user=technicalkuldeep&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=00FFB7&cache_seconds=86400" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&cache_seconds=86400" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalkuldeep&theme=react-dark&bg_color=0D1117&color=00FFB7&line=00FFB7&point=FFFFFF&hide_border=true&area=true" /> </p>
 
 ### 💻 Connect with Me  
 
