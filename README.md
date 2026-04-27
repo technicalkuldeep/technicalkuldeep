@@ -1,94 +1,71 @@
-<!-- 🌌 Banner (Optional: add a custom one in your repo as banner.png) -->
-![Banner](./github-header-banner.png)
+<!-- 🚀 Ultra Premium GitHub Profile -->
 
-<h1 align="center">Hey 👋, I'm <span style="color:#00FFB7;">Kuldeep Sharma</span></h1>
-<h3 align="center">💜 Full-Stack & Solana Developer | Exploring Web3, AI/ML, and the Future of the Internet</h3>
+<!-- 🌌 Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Kuldeep%20Sharma&fontSize=40&fontColor=00FFB7&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">⚡ Hey, I'm Kuldeep ⚡</h1>
+<h3 align="center">🚀 Full-Stack • Solana • Web3 • AI/ML</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=technicalkuldeep&label=Profile%20views&color=00FFB7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=technicalkuldeep&label=Visitors&color=00FFB7&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/technicalkuldeep?label=Followers&style=flat-square&color=00FFB7" />
+  <img src="https://img.shields.io/github/stars/technicalkuldeep?label=Stars&style=flat-square&color=00FFB7" />
 </p>
 
 ---
 
-### 🧠 About Me  
+## 🧠 Who Am I?
 
-Hey there! I'm **Kuldeep**, a developer from India passionate about **building on Solana** and merging **Web + AI + Blockchain** to create something that truly matters.  
+```bash
+> Initializing Kuldeep.exe...
 
-- ⚙️ Focused on **Solana, Rust, React, Node.js, and AI/ML**
-- 💜 I absolutely love the **Solana ecosystem** and its developer-first community
-- 🏆 **3× Web3 Hackathon Winner**  
-  - 🥉*100xDevs Solana Mini Hackathon*  
-  - 🥉*Kwala Hacker House 1.0* 
-  - 🥇*Kwala Hacker House 2.0* 
-- 🌐 Check out my portfolio: [**web3kuldeep.me**](https://web3kuldeep.me)  
-- 💬 “I don’t just build projects — I craft experiments that scale.”  
+✔ Web3 Builder  
+✔ Solana Enthusiast  
+✔ Full-Stack Developer  
+✔ Hackathon Warrior  
+✔ Future Blockchain Architect  
 
----
+💡 I build real-world scalable experiments combining
+Blockchain + AI + Web
 
-### ⚡ Technologies I Work With  
+⚡ Not here to just code —
+I’m here to push boundaries of the internet
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+🏆 Achievements
 
----
+🥇 Kwala Hacker House 2.0
+🥉 Kwala Hacker House 1.0
+🥉 100xDevs Solana Mini Hackathon
 
-### 🧩 My Blogs on Medium  
+🔥 3× Web3 Hackathon Winner
+🚀 Building in the Solana Ecosystem
 
-> *“I believe in understanding how things work under the hood — not just using them.”*  
+⚙️ Tech Arsenal
+<p align="center"> <img src="https://skillicons.dev/icons?i=rust,solana,react,nextjs,nodejs,express,mongodb,python,cpp,html,css,js" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Web3-Solana-9945FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI-ML-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/Frontend-React-black?style=for-the-badge"/> </p>
+🧩 Knowledge Drops (Blogs)
 
-Here are some of my featured Solana-related blogs 👇  
+🟣 How Solana Works
 
-- 🟣 [**How Solana Works: A Beginner’s Guide to Blockchain Design**](https://medium.com/coinmonks/solana-6a945d6072a3)  
-- 🕒 [**Proof of History (PoH)**](https://medium.com/coinmonks/proof-of-history-poh-eb8b874b59ee)  
-- ⚙️ [**Solana’s First Layer Explained: Users, Wallets, and Accounts**](https://medium.com/coinmonks/weve-built-a-great-understanding-so-far-bed61f4dfef4)
+🕒 Proof of History (PoH)
 
-<p align="center">
-  <a href="[https://medium.com/@web3kuldeep]"><img src="https://img.shields.io/badge/Read%20More%20on%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
+⚙️ Solana Layer Explained
 
----
+<p align="center"> <a href="https://medium.com/@web3kuldeep"> <img src="https://img.shields.io/badge/Explore%20More%20Blogs-000000?style=for-the-badge&logo=medium&logoColor=white"/> </a> </p>
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=technicalkuldeep&theme=tokyonight&hide_border=true&background=00000000" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalkuldeep&theme=tokyo-night&bg_color=00000000&hide_border=true"/> </p>
+🌐 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/kuldeep2004"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a> <a href="https://github.com/technicalkuldeep"><img src="https://skillicons.dev/icons?i=github" height="45"/></a> <a href="https://medium.com/@web3kuldeep"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a> </p> <p align="center"> <a href="https://www.codechef.com/users/web3kuldeep"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> <a href="https://web3kuldeep.me"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
+🧬 Current Mission
+Building:
+  - Solana-based dApps
+  - AI + Web3 integrations
+  - Scalable full-stack systems
 
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=technicalkuldeep&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalkuldeep&theme=tokyo-night" />
-</p>
-
----
-
-### 💻 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/kuldeep2004"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
-  <a href="https://github.com/technicalkuldeep"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
-  <a href="https://medium.com/@web3kuldeep"><img src="https://skillicons.dev/icons?i=medium" height="45" /></a>
-  <a href="https://www.codechef.com/users/web3kuldeep"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" height="38"/></a>
-  <a href="https://web3kuldeep.me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" height="38"/></a>
-</p>
-
----
-
-<h3 align="center">⚡ “Built on Solana. Fueled by Curiosity.” ⚡</h3>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+Goal:
+  - Become elite Blockchain Engineer
+  - Build something that impacts millions
+🐍 Contribution Snake
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/> </p>
+<h2 align="center">⚡ “Code. Break. Learn. Repeat.” ⚡</h2> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/> </p> ```
