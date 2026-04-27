@@ -1,24 +1,5 @@
-<!-- 🚀 Ultra Premium GitHub Profile -->
-
-<!-- 🌌 Animated Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Kuldeep%20Sharma&fontSize=40&fontColor=00FFB7&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h1 align="center">⚡ Hey, I'm Kuldeep ⚡</h1>
-<h3 align="center">🚀 Full-Stack • Solana • Web3 • AI/ML</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=technicalkuldeep&label=Visitors&color=00FFB7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/technicalkuldeep?label=Followers&style=flat-square&color=00FFB7" />
-  <img src="https://img.shields.io/github/stars/technicalkuldeep?label=Stars&style=flat-square&color=00FFB7" />
-</p>
-
----
-
-## 🧠 Who Am I?
-
-```bash
+<!-- 🚀 Ultra Premium GitHub Profile --> <!-- 🌌 Animated Banner --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Kuldeep%20Sharma&fontSize=40&fontColor=00FFB7&animation=fadeIn&fontAlignY=35"/> </p> <h1 align="center">⚡ Hey, I'm Kuldeep ⚡</h1> <h3 align="center">🚀 Full-Stack • Solana • Web3 • AI/ML</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=technicalkuldeep&label=Visitors&color=00FFB7&style=flat-square" /> <img src="https://img.shields.io/github/followers/technicalkuldeep?label=Followers&style=flat-square&color=00FFB7" /> <img src="https://img.shields.io/github/stars/technicalkuldeep?label=Stars&style=flat-square&color=00FFB7" /> </p>
+🧠 Who Am I?
 > Initializing Kuldeep.exe...
 
 ✔ Web3 Builder  
@@ -58,14 +39,14 @@ I’m here to push boundaries of the internet
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/kuldeep2004"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a> <a href="https://github.com/technicalkuldeep"><img src="https://skillicons.dev/icons?i=github" height="45"/></a> <a href="https://medium.com/@web3kuldeep"><img src="https://skillicons.dev/icons?i=medium" height="45"/></a> </p> <p align="center"> <a href="https://www.codechef.com/users/web3kuldeep"> <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/> </a> <a href="https://web3kuldeep.me"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
 🧬 Current Mission
-Building:
-  - Solana-based dApps
-  - AI + Web3 integrations
-  - Scalable full-stack systems
+🔭 Building Solana-based dApps
+🤖 Exploring AI + Web3 integrations
+⚙️ Creating scalable full-stack systems
 
-Goal:
-  - Become elite Blockchain Engineer
-  - Build something that impacts millions
+🎯 Goal:
+
+Become an elite Blockchain Engineer
+Build something that impacts millions
 🐍 Contribution Snake
 <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/> </p>
-<h2 align="center">⚡ “Code. Break. Learn. Repeat.” ⚡</h2> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/> </p> ```
+<h2 align="center">⚡ “Code. Break. Learn. Repeat.” ⚡</h2> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/> </p>
