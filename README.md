@@ -144,24 +144,6 @@ Here are some of my featured Solana-related blogs 👇
 
 ---
 
-## 🌟 Holopin Badges
-
-<p align="center">
-  <a href="https://holopin.io/@technicalkuldeep">
-    <img src="https://holopin.me/technicalkuldeep" alt="Holopin Badges"/>
-  </a>
-</p>
-
----
-
-## 💻 Tech Stack Snapshot
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgresql,solidity,solana,docker,git,github,linux,vscode,tailwind,firebase" />
-</p>
-
----
-
 ### 💻 Connect with Me  
 
 <p align="center">
