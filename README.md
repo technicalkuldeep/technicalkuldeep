@@ -86,14 +86,6 @@ Here are some of my featured Solana-related blogs 👇
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&langs_count=10" />
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
