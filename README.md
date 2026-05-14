@@ -62,8 +62,105 @@ Here are some of my featured Solana-related blogs 👇
 
 ---
 
-<!-- 🔥 INSANE STATS SECTION (STABLE VERSION) --> 
-<h2 align="center">⚡ GitHub Analytics ⚡</h2> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&icon_color=00FFB7&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=86400" /> <img width="48%" src="https://streak-stats.demolab.com?user=technicalkuldeep&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=00FFB7&cache_seconds=86400" /> </p> <p align="center"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&cache_seconds=86400" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalkuldeep&theme=react-dark&bg_color=0D1117&color=00FFB7&line=00FFB7&point=FFFFFF&hide_border=true&area=true" /> </p>
+<!-- =========================
+     ⚡ ADVANCED GITHUB ANALYTICS ⚡
+========================= -->
+
+<h1 align="center">📊 GitHub Analytics Dashboard</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=technicalkuldeep&label=Profile%20Views&color=00ffb7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/technicalkuldeep?logo=github&style=for-the-badge&color=00ffb7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/technicalkuldeep?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=00ffb7&labelColor=0D1117" />
+</p>
+
+---
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&icon_color=00FFB7&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Kuldeep's%20GitHub%20Stats" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=technicalkuldeep&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=00FFB7" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technicalkuldeep&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&text_color=FFFFFF&langs_count=10" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=technicalkuldeep&theme=react-dark&bg_color=0D1117&color=00FFB7&line=00FFB7&point=FFFFFF&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=technicalkuldeep&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
+</p>
+
+---
+
+## ⚡ Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/technicalkuldeep/technicalkuldeep/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 📌 Developer Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=technicalkuldeep&theme=tokyonight" width="95%" />
+</p>
+
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=technicalkuldeep&theme=tokyonight" />
+  
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=technicalkuldeep&theme=tokyonight" />
+  
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=technicalkuldeep&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 🔥 Coding Activity
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=technicalkuldeep&theme=tokyonight" />
+  
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=technicalkuldeep&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+## 🌟 Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@technicalkuldeep">
+    <img src="https://holopin.me/technicalkuldeep" alt="Holopin Badges"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack Snapshot
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,postgresql,solidity,solana,docker,git,github,linux,vscode,tailwind,firebase" />
+</p>
+
+---
 
 ### 💻 Connect with Me  
 
