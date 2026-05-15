@@ -78,12 +78,7 @@ Here are some of my featured Solana-related blogs 👇
 
 ## 🚀 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=technicalkuldeep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB7&icon_color=00FFB7&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Kuldeep's%20GitHub%20Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=technicalkuldeep&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB7&fire=00FFB7&currStreakLabel=00FFB7" />
-</p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=technicalkuldeep&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 📈 Contribution Graph
